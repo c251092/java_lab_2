@@ -1,4 +1,4 @@
-package set1.set2;
+package set2;
 
 import java.util.Arrays;
 
